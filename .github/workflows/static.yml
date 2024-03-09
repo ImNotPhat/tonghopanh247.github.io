@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tổng hợp hình ảnh 24/7</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="main.css">
+        <!-- <style>
+            h1{
+                color : red;
+            }
+        </style> -->
+    </head>
+    <body>
+        <h1>Chào em nhé</h1>
+        <p>Con cặc lỏ</p>
+        <!-- <img src="https://i.ytimg.com/vi/UYpIh5pIkSA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCujJOQB6SYnPALZJTFf8T7gJcnfQ" alt=""> -->
+        <a href=""></a>
+    </body>
+</html>
